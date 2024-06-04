@@ -1,0 +1,82 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"J3","Conn_01x04","JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal",314.325000,-91.281250,90.000000,top
+"K000","ESC","SW_Hotswap_Kailh_MX_1.00u",22.225000,-22.225000,0.000000,top
+"K002","F1","SW_Hotswap_Kailh_MX_1.00u",61.912500,-22.225000,0.000000,top
+"K003","F2","SW_Hotswap_Kailh_MX_1.00u",81.756250,-22.225000,0.000000,top
+"K004","F3","SW_Hotswap_Kailh_MX_1.00u",101.600000,-22.225000,0.000000,top
+"K005","F4","SW_Hotswap_Kailh_MX_1.00u",121.443750,-22.225000,0.000000,top
+"K006","F5","SW_Hotswap_Kailh_MX_1.00u",150.812500,-22.225000,0.000000,top
+"K007","F6","SW_Hotswap_Kailh_MX_1.00u",170.656250,-22.225000,0.000000,top
+"K008","F7","SW_Hotswap_Kailh_MX_1.00u",190.500000,-22.225000,0.000000,top
+"K009","F8","SW_Hotswap_Kailh_MX_1.00u",210.343750,-22.225000,0.000000,top
+"K010","F9","SW_Hotswap_Kailh_MX_1.00u",239.712500,-22.225000,0.000000,top
+"K011","F10","SW_Hotswap_Kailh_MX_1.00u",259.556250,-22.225000,0.000000,top
+"K012","F11","SW_Hotswap_Kailh_MX_1.00u",279.400000,-22.225000,0.000000,top
+"K013","F12","SW_Hotswap_Kailh_MX_1.00u",299.243750,-22.225000,0.000000,top
+"K014","F13","SW_Hotswap_Kailh_MX_1.00u",323.056250,-22.225000,0.000000,top
+"K100","~","SW_Hotswap_Kailh_MX_1.00u",22.225000,-46.037500,0.000000,top
+"K101","1","SW_Hotswap_Kailh_MX_1.00u",42.068750,-46.037500,0.000000,top
+"K102","2","SW_Hotswap_Kailh_MX_1.00u",61.912500,-46.037500,0.000000,top
+"K103","3","SW_Hotswap_Kailh_MX_1.00u",81.756250,-46.037500,0.000000,top
+"K104","4","SW_Hotswap_Kailh_MX_1.00u",101.600000,-46.037500,0.000000,top
+"K105","5","SW_Hotswap_Kailh_MX_1.00u",121.443750,-46.037500,0.000000,top
+"K106","6","SW_Hotswap_Kailh_MX_1.00u",141.287500,-46.037500,0.000000,top
+"K107","7","SW_Hotswap_Kailh_MX_1.00u",161.131250,-46.037500,0.000000,top
+"K108","8","SW_Hotswap_Kailh_MX_1.00u",180.975000,-46.037500,0.000000,top
+"K109","9","SW_Hotswap_Kailh_MX_1.00u",200.818750,-46.037500,0.000000,top
+"K110","0","SW_Hotswap_Kailh_MX_1.00u",220.662500,-46.037500,0.000000,top
+"K111","-","SW_Hotswap_Kailh_MX_1.00u",240.506250,-46.037500,0.000000,top
+"K112","=","SW_Hotswap_Kailh_MX_1.00u",260.350000,-46.037500,0.000000,top
+"K113","Backspace","SW_Hotswap_Kailh_MX_2.00u",289.718750,-46.037500,0.000000,top
+"K114","Insert","SW_Hotswap_Kailh_MX_1.00u",323.056250,-46.037500,0.000000,top
+"K200","Tab","SW_Hotswap_Kailh_MX_1.50u",26.987500,-65.881250,0.000000,top
+"K201","Q","SW_Hotswap_Kailh_MX_1.00u",51.593750,-65.881250,0.000000,top
+"K202","W","SW_Hotswap_Kailh_MX_1.00u",71.437500,-65.881250,0.000000,top
+"K203","E","SW_Hotswap_Kailh_MX_1.00u",91.281250,-65.881250,0.000000,top
+"K204","R","SW_Hotswap_Kailh_MX_1.00u",111.125000,-65.881250,0.000000,top
+"K205","T","SW_Hotswap_Kailh_MX_1.00u",130.968750,-65.881250,0.000000,top
+"K206","Y","SW_Hotswap_Kailh_MX_1.00u",150.812500,-65.881250,0.000000,top
+"K207","U","SW_Hotswap_Kailh_MX_1.00u",170.656250,-65.881250,0.000000,top
+"K208","I","SW_Hotswap_Kailh_MX_1.00u",190.500000,-65.881250,0.000000,top
+"K209","O","SW_Hotswap_Kailh_MX_1.00u",210.343750,-65.881250,0.000000,top
+"K210","P","SW_Hotswap_Kailh_MX_1.00u",230.187500,-65.881250,0.000000,top
+"K211","[","SW_Hotswap_Kailh_MX_1.00u",250.031250,-65.881250,0.000000,top
+"K212","]","SW_Hotswap_Kailh_MX_1.00u",269.875000,-65.881250,0.000000,top
+"K213","\","SW_Hotswap_Kailh_MX_1.50u",294.481250,-65.881250,0.000000,top
+"K214","Delete","SW_Hotswap_Kailh_MX_1.00u",323.056250,-65.881250,0.000000,top
+"K300","Caps Lock","SW_Hotswap_Kailh_MX_1.75u",29.368750,-85.725000,0.000000,top
+"K301","A","SW_Hotswap_Kailh_MX_1.00u",56.356250,-85.725000,0.000000,top
+"K302","S","SW_Hotswap_Kailh_MX_1.00u",76.200000,-85.725000,0.000000,top
+"K303","D","SW_Hotswap_Kailh_MX_1.00u",96.043750,-85.725000,0.000000,top
+"K304","F","SW_Hotswap_Kailh_MX_1.00u",115.887500,-85.725000,0.000000,top
+"K305","G","SW_Hotswap_Kailh_MX_1.00u",135.731250,-85.725000,0.000000,top
+"K306","H","SW_Hotswap_Kailh_MX_1.00u",155.575000,-85.725000,0.000000,top
+"K307","J","SW_Hotswap_Kailh_MX_1.00u",175.418750,-85.725000,0.000000,top
+"K308","K","SW_Hotswap_Kailh_MX_1.00u",195.262500,-85.725000,0.000000,top
+"K309","L","SW_Hotswap_Kailh_MX_1.00u",215.106250,-85.725000,0.000000,top
+"K310",";","SW_Hotswap_Kailh_MX_1.00u",234.950000,-85.725000,0.000000,top
+"K311","'","SW_Hotswap_Kailh_MX_1.00u",254.793750,-85.725000,0.000000,top
+"K312","Enter","SW_Hotswap_Kailh_MX_2.25u",286.543750,-85.725000,0.000000,top
+"K400","Left Shift","SW_Hotswap_Kailh_MX_2.25u",34.131250,-105.568750,0.000000,top
+"K401","Z","SW_Hotswap_Kailh_MX_1.00u",65.881250,-105.568750,0.000000,top
+"K402","X","SW_Hotswap_Kailh_MX_1.00u",85.725000,-105.568750,0.000000,top
+"K403","C","SW_Hotswap_Kailh_MX_1.00u",105.568750,-105.568750,0.000000,top
+"K404","V","SW_Hotswap_Kailh_MX_1.00u",125.412500,-105.568750,0.000000,top
+"K405","B","SW_Hotswap_Kailh_MX_1.00u",145.256250,-105.568750,0.000000,top
+"K406","N","SW_Hotswap_Kailh_MX_1.00u",165.100000,-105.568750,0.000000,top
+"K407","M","SW_Hotswap_Kailh_MX_1.00u",184.943750,-105.568750,0.000000,top
+"K408",",","SW_Hotswap_Kailh_MX_1.00u",204.787500,-105.568750,0.000000,top
+"K409",".","SW_Hotswap_Kailh_MX_1.00u",224.631250,-105.568750,0.000000,top
+"K410","/","SW_Hotswap_Kailh_MX_1.00u",244.475000,-105.568750,0.000000,top
+"K411","Right Shift","SW_Hotswap_Kailh_MX_1.75u",271.462500,-105.568750,0.000000,top
+"K413","Up Arrow","SW_Hotswap_Kailh_MX_1.00u",303.212500,-110.331250,0.000000,top
+"K500","Left Ctrl","SW_Hotswap_Kailh_MX_1.25u",24.606250,-125.412500,0.000000,top
+"K501","Windows","SW_Hotswap_Kailh_MX_1.25u",49.212500,-125.412500,0.000000,top
+"K502","Left Alt","SW_Hotswap_Kailh_MX_1.25u",73.818750,-125.412500,0.000000,top
+"K505","Space","SW_Hotswap_Kailh_MX_6.25u",146.050000,-125.412500,0.000000,top
+"K509","Right Alt","SW_Hotswap_Kailh_MX_1.00u",215.900000,-125.412500,0.000000,top
+"K510","Fn","SW_Hotswap_Kailh_MX_1.00u",235.743750,-125.412500,0.000000,top
+"K511","Right Ctrl","SW_Hotswap_Kailh_MX_1.00u",255.587500,-125.412500,0.000000,top
+"K512","Left Arrow","SW_Hotswap_Kailh_MX_1.00u",283.368750,-130.175000,0.000000,top
+"K513","Down Arrow","SW_Hotswap_Kailh_MX_1.00u",303.212500,-130.175000,0.000000,top
+"K514","Right Arrow","SW_Hotswap_Kailh_MX_1.00u",323.056250,-130.175000,0.000000,top

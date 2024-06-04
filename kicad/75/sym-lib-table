@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RS-187R05A2-DSMTRT")(type "KiCad")(uri "${KIPRJMOD}/RS-187R05A2-DSMTRT.kicad_sym")(options "")(descr ""))
+  (lib (name "sl21a")(type "KiCad")(uri "${KIPRJMOD}/sl21a.kicad_sym")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "${KIPRJMOD}/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+)

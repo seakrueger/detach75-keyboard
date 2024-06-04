@@ -1,0 +1,3913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/general/kicad/keyboard_test/keyboard_test.kicad_sch</source>
+    <date>Thu 21 Mar 2024 10:49:29 PM CDT</date>
+    <tool>Eeschema 7.0.10</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>keyboard_test.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>matrix.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C95841</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C95841"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_test.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9157d32-56d4-4603-8b43-41bbf78ae484</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C95841</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C95841"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_test.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>47ca907b-9a3e-4e2d-8098-d9523dbff1ba</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C95841</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C95841"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_test.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>585cc2c8-51b0-486c-864d-6476032e5fa5</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>22pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C1804</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1804"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_test.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59ebe635-cd06-4456-baff-c4c5eb3746fc</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>22pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C1804</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1804"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_test.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>711d08ed-38d5-401d-9bdf-eb7d62764227</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C116352</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C116352"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_test.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cdb4b842-559d-46ac-a6d9-14182a03256b</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C95841</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C95841"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_test.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3d86829-2761-48df-b88e-17a410e3d8a4</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C346219</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C346219"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_test.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b412f128-d41b-4f60-b8b2-8dbb623c131f</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C346219</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C346219"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_test.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71f0c6e8-793e-4b80-9eef-9ac867941db6</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C346219</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C346219"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_test.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99e01118-a637-4703-b4df-eceb7c922d82</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C346219</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C346219"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_test.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91587924-bc3d-4982-a3ed-84f5978aefd7</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C346219</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C346219"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_test.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2160f2c6-b056-470e-a8b3-39deecafa623</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100uF</value>
+      <footprint>Capacitor_SMD:C_Elec_6.3x5.4</footprint>
+      <fields>
+        <field name="LCSC">C111600</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="LCSC" value="C111600"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_test.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7f03bbc-f8f6-4ef1-9a9b-2dec12941245</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>PRTR5V0U2X</value>
+      <footprint>Package_TO_SOT_SMD:SOT-143</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2827688</field>
+      </fields>
+      <libsource lib="Power_Protection" part="PRTR5V0U2X" description="Ultra low capacitance double rail-to-rail ESD protection diode, SOT-143"/>
+      <property name="LCSC" value="C2827688"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_test.kicad_sch"/>
+      <property name="ki_description" value="Ultra low capacitance double rail-to-rail ESD protection diode, SOT-143"/>
+      <property name="ki_keywords" value="ESD protection diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b2a819bb-2a22-49f1-ab7d-c006019c06cb</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>500m</value>
+      <footprint>Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C70069</field>
+      </fields>
+      <libsource lib="Device" part="Polyfuse_Small" description="Resettable fuse, polymeric positive temperature coefficient, small symbol"/>
+      <property name="LCSC" value="C70069"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_test.kicad_sch"/>
+      <property name="ki_description" value="Resettable fuse, polymeric positive temperature coefficient, small symbol"/>
+      <property name="ki_keywords" value="resettable fuse PTC PPTC polyfuse polyswitch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f762dc7f-5d1d-449c-a9f1-440b5475f615</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>USB_C_Receptacle_USB2.0_14P</value>
+      <footprint>Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12</footprint>
+      <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <fields>
+        <field name="LCSC">C165948</field>
+      </fields>
+      <libsource lib="Connector" part="USB_C_Receptacle_USB2.0_14P" description="USB 2.0-only 14P Type-C Receptacle connector"/>
+      <property name="LCSC" value="C165948"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_test.kicad_sch"/>
+      <property name="ki_description" value="USB 2.0-only 14P Type-C Receptacle connector"/>
+      <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e5d0786-f416-4920-a793-2bd0edad8fce</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>AVR-ISP-6</value>
+      <footprint>random-keyboard-parts:Reset_Pretty-Mask</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="AVR-ISP-6" description="Atmel 6-pin ISP connector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_test.kicad_sch"/>
+      <property name="ki_description" value="Atmel 6-pin ISP connector"/>
+      <property name="ki_keywords" value="AVR ISP Connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c45acc8-0961-48c0-8821-b7e45ef8a7fa</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x04</value>
+      <footprint>Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_test.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>905f5f03-23d3-4eae-b6a9-f7199200c1a3</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C27834</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C27834"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_test.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb7e52f5-2906-4a31-9e76-6a9f78bd0a18</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C27834</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C27834"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_test.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e24e2a7d-ac05-41a7-b827-f916b43c22b7</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>22</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C17561</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17561"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_test.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4cebb476-5d1c-47cd-b159-7e3ca79df2d5</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>22</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C17561</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17561"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_test.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53790ace-e48d-49c3-afa4-97beb83febba</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C17402</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17402"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_test.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8fafba34-2197-469e-ade6-9887fe022638</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C17402</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17402"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_test.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>898f79e0-b5d9-4cfc-852e-b4ce8efd935a</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ATmega32U4-A</value>
+      <footprint>Package_QFP:TQFP-44_10x10mm_P0.8mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C44854</field>
+      </fields>
+      <libsource lib="MCU_Microchip_ATmega" part="ATmega32U4-A" description="16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44"/>
+      <property name="LCSC" value="C44854"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_test.kicad_sch"/>
+      <property name="ki_description" value="16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44"/>
+      <property name="ki_keywords" value="AVR 8bit Microcontroller MegaAVR USB"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2526e892-779d-4f5e-9d16-83caabdec324</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>SL2.1A</value>
+      <footprint>sl21a:SO16</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811151645_CoreChips-SL2-1A_C192893.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C6798314</field>
+      </fields>
+      <libsource lib="sl21a" part="SL2.1A" description=""/>
+      <property name="LCSC" value="C6798314"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_test.kicad_sch"/>
+      <property name="ki_keywords" value="USB 2.0 HIGH SPEED 4-PORT HUB CONTROLLER"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>156e0228-e94b-4580-a236-575abde7a183</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>~</value>
+      <footprint>Button_Switch_SMD:SW_SPST_SKQG_WithStem</footprint>
+      <fields>
+        <field name="LCSC">C115351</field>
+      </fields>
+      <libsource lib="RS-187R05A2-DSMTRT" part="RS-187R05A2-DS_MT_RT" description=""/>
+      <property name="LCSC" value="C115351"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_test.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>22307f0c-bd8b-4f5d-97b0-ce1e7f87002a</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>Crystal_GND24_Small</value>
+      <footprint>Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering</footprint>
+      <fields>
+        <field name="LCSC">C255909</field>
+      </fields>
+      <libsource lib="Device" part="Crystal_GND24_Small" description="Four pin crystal, GND on pins 2 and 4, small symbol"/>
+      <property name="LCSC" value="C255909"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_test.kicad_sch"/>
+      <property name="ki_description" value="Four pin crystal, GND on pins 2 and 4, small symbol"/>
+      <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62636811-6b33-4ee5-96db-46f1e32b4276</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>f534f4fb-badc-4df3-8703-5896a366e11f</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>e78906e6-a4b5-4f1c-a492-ea8548612c4c</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>3c371434-fdfa-49ba-90a5-93747d7c2c7c</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>d430e71c-99f1-4832-b897-f4b0f7e00020</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>aff0d522-f194-41e3-86fb-7c0da2b9eca0</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>90009baf-69e3-454a-9d07-801a7e04a373</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>cda78711-d6b2-414f-b3f0-d7cd1cca0217</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>facdc54e-c4f6-4ac7-9c97-f75025b2c638</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>88ca5ef3-c767-46ac-8b44-d776be30efd1</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>432bd3ac-fdd0-4bb4-822b-5f8ad4f286f5</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>41df0a8a-005f-4704-85ea-54ff88a20cb3</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>86fae210-a54c-48b8-8c90-71405d173032</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>13cf7d7e-cfe0-4474-a80a-db18e5ae13a8</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>d807e9c3-f8bf-4fbd-ba81-3c3e9381227e</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>bdbf5769-3240-4207-b1a9-ebc3db242dbe</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>f68f327d-0aec-4b31-8108-db1ed2942240</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>aeb38c8d-29b5-44cd-a142-f623a15538f4</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>65dc7f5c-257e-4bf9-b638-285318b53513</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>df7209e8-21f9-4155-8197-dbd26aeb9c98</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>951c383c-dda8-468b-956d-50c4147ba01a</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>aa67ca7c-bcc2-4afb-8b62-37457e63f42a</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>f03f1744-e73e-4faf-a3e1-c8bc7f9d0a13</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>6b47936b-3921-4798-88fb-4150555cdae4</tstamps>
+    </comp>
+    <comp ref="D25">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>347c0d83-041e-4a64-9c68-94e8a7d70436</tstamps>
+    </comp>
+    <comp ref="D26">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>1ae6f902-0fee-4652-9b65-49e4ae94688e</tstamps>
+    </comp>
+    <comp ref="D27">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>37b618d9-4dad-463c-95a1-c63d87d491b0</tstamps>
+    </comp>
+    <comp ref="D28">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>4c576a9f-31f9-4e6a-9720-4af034191915</tstamps>
+    </comp>
+    <comp ref="D29">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>405acf43-229c-40e9-a701-3a15f09132da</tstamps>
+    </comp>
+    <comp ref="D30">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>c7ecdc81-38d9-486f-af3d-ab833e52c623</tstamps>
+    </comp>
+    <comp ref="D31">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>6027dde7-ef32-460a-9627-dd82279c15f6</tstamps>
+    </comp>
+    <comp ref="D32">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>6a40738c-39c2-46da-abac-f12457023a8b</tstamps>
+    </comp>
+    <comp ref="D33">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>e6a63849-a6ac-4a24-b704-089be34648f6</tstamps>
+    </comp>
+    <comp ref="D34">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>799fcdfd-315c-4d7f-9a77-dfe5ab038709</tstamps>
+    </comp>
+    <comp ref="D35">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>d16358b8-d161-4d10-bc12-42fad72b6301</tstamps>
+    </comp>
+    <comp ref="D36">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>b6ed60d2-dc27-4940-b769-407474dda979</tstamps>
+    </comp>
+    <comp ref="D37">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>fa2bc67b-971e-4191-9e77-1b6e70edcfc6</tstamps>
+    </comp>
+    <comp ref="D38">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>53d587c1-45da-4789-8088-51f6ca0e4745</tstamps>
+    </comp>
+    <comp ref="D39">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>4833d857-30ac-4da8-ba75-c99f43d02304</tstamps>
+    </comp>
+    <comp ref="D40">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>9a45e377-d927-4902-8246-273a1ed4e84e</tstamps>
+    </comp>
+    <comp ref="D41">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>d25bfba4-1d94-4a6e-b51b-90c10ac57ff6</tstamps>
+    </comp>
+    <comp ref="D42">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>36ee235d-ede5-48a1-af93-07d796ab156a</tstamps>
+    </comp>
+    <comp ref="D43">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>688a9eef-4894-4f4c-b8c3-050ba0b92f53</tstamps>
+    </comp>
+    <comp ref="D44">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>0c808781-c172-42f0-85e2-56bf3478d761</tstamps>
+    </comp>
+    <comp ref="D45">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>a87c39f6-3d7e-4a52-a2f7-622aad6f479f</tstamps>
+    </comp>
+    <comp ref="D46">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>5aaede6f-11ef-4a2c-b306-8a2da31a63ea</tstamps>
+    </comp>
+    <comp ref="D47">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>9a551d11-fae0-4e35-81a8-e18c8c9b85f6</tstamps>
+    </comp>
+    <comp ref="D48">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>ea269f3e-e5a2-4ae3-846e-7c6518f262b9</tstamps>
+    </comp>
+    <comp ref="D49">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>c7b54cf0-b622-471a-b0bb-4803a5bdcce7</tstamps>
+    </comp>
+    <comp ref="D50">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>fbbf3346-fc60-4533-af9a-ee634f38c3ed</tstamps>
+    </comp>
+    <comp ref="D51">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>63859988-231f-4dac-ac1a-0e1dc9c6b811</tstamps>
+    </comp>
+    <comp ref="D52">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>258e547c-5a2e-417d-95f9-4d27258c5029</tstamps>
+    </comp>
+    <comp ref="D53">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>e0480431-1a01-45c8-b726-1983a5bfbe4a</tstamps>
+    </comp>
+    <comp ref="D54">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>e9e97060-714e-4477-a975-b135f413f1f2</tstamps>
+    </comp>
+    <comp ref="D55">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>efcd6bf3-fe55-459f-8fd7-1873adf1613a</tstamps>
+    </comp>
+    <comp ref="D56">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>6a85c5fc-2324-4ad6-a209-b81a9c51d052</tstamps>
+    </comp>
+    <comp ref="D57">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>4d6f0488-7386-426b-9c94-6adf6c628da6</tstamps>
+    </comp>
+    <comp ref="D58">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>e9d1affb-09fd-4e5e-897b-fce1509ffd83</tstamps>
+    </comp>
+    <comp ref="D59">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>81e27ce5-7cf3-4c1b-9e1e-882ba4b71969</tstamps>
+    </comp>
+    <comp ref="D61">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>81456c91-0ad0-40da-a747-f2c7b83f92e0</tstamps>
+    </comp>
+    <comp ref="D62">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>6dfe2256-da27-4540-8d62-3e86cffb35ad</tstamps>
+    </comp>
+    <comp ref="D63">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>f1d0440c-5545-4329-ad1c-0203dda97fab</tstamps>
+    </comp>
+    <comp ref="D64">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>f1da441a-a0f6-44b1-9dc2-380562ebbc40</tstamps>
+    </comp>
+    <comp ref="D65">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>55bd3393-6146-46a0-b1ee-e060a50e2501</tstamps>
+    </comp>
+    <comp ref="D66">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>2164a9d8-29ab-4bab-8fd4-93e3330ab881</tstamps>
+    </comp>
+    <comp ref="D67">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>908a5fea-01cc-49b1-8865-6f15c483e360</tstamps>
+    </comp>
+    <comp ref="D68">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>0903253a-e36e-427e-91ff-e753d85284c4</tstamps>
+    </comp>
+    <comp ref="D69">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>9f189525-c2c4-4a29-a487-85fdee523588</tstamps>
+    </comp>
+    <comp ref="D70">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>e0408c86-e938-4174-a310-639e734ce9a5</tstamps>
+    </comp>
+    <comp ref="D71">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>4e11734c-dc59-4d84-9738-06bc42670300</tstamps>
+    </comp>
+    <comp ref="D72">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>6f074f21-a1c9-48aa-b69d-98b09fb5502a</tstamps>
+    </comp>
+    <comp ref="D76">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>062902f8-5cf4-4cd3-93e4-0168b38e230b</tstamps>
+    </comp>
+    <comp ref="D77">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>d3476686-0950-414c-ae27-e58f34ff696c</tstamps>
+    </comp>
+    <comp ref="D78">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>c18abffb-12a9-4bea-b85f-a9f999496f31</tstamps>
+    </comp>
+    <comp ref="D81">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>1d37d02b-70d8-4265-a8c1-49d58894e8ed</tstamps>
+    </comp>
+    <comp ref="D85">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>4c7b32a9-11c1-400c-bc1f-d05fb8ef847c</tstamps>
+    </comp>
+    <comp ref="D86">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>9d358aae-3b5c-4870-8c32-27bf1bc0de78</tstamps>
+    </comp>
+    <comp ref="D87">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>22a30e43-489a-4d43-8076-475120f75938</tstamps>
+    </comp>
+    <comp ref="D88">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>9ef0d09a-e4b4-44ed-84cc-fc7c576b47c6</tstamps>
+    </comp>
+    <comp ref="D89">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>05122587-bbef-4d0e-9730-6f16ccc71427</tstamps>
+    </comp>
+    <comp ref="D90">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C77978</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC" value="C77978"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>089751f4-fe30-40bd-a731-c29bda4b4c7b</tstamps>
+    </comp>
+    <comp ref="K000">
+      <value>ESC</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>e50f5e01-2a4d-4c35-96a3-7dcfbd1c73a2</tstamps>
+    </comp>
+    <comp ref="K002">
+      <value>F1</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>0398ec72-65f9-4c53-8a63-291d2cfd6386</tstamps>
+    </comp>
+    <comp ref="K003">
+      <value>F2</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>eae9e3e8-2c1b-4147-92cb-af7111bde8c2</tstamps>
+    </comp>
+    <comp ref="K004">
+      <value>F3</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>310b9738-7218-4684-993c-b967531095ab</tstamps>
+    </comp>
+    <comp ref="K005">
+      <value>F4</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>97bcc332-b7e1-49a6-8d82-71267050424f</tstamps>
+    </comp>
+    <comp ref="K006">
+      <value>F5</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>7ac880f7-a4c0-4fbe-94e0-81455c1c3882</tstamps>
+    </comp>
+    <comp ref="K007">
+      <value>F6</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>44c715ff-7ade-4a45-9108-3c9e0d25cd76</tstamps>
+    </comp>
+    <comp ref="K008">
+      <value>F7</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>c8032990-1dc0-42f2-b187-69ad2b5e7007</tstamps>
+    </comp>
+    <comp ref="K009">
+      <value>F8</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>9d468e4c-835d-4768-8c2f-cdfd4c067ae2</tstamps>
+    </comp>
+    <comp ref="K010">
+      <value>F9</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>3aee93f3-30e5-496c-903c-dee6b02da6b7</tstamps>
+    </comp>
+    <comp ref="K011">
+      <value>F10</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>e2c75149-2a80-4f9e-9ecb-4b5440c4446e</tstamps>
+    </comp>
+    <comp ref="K012">
+      <value>F11</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>dcf39ff8-83af-4ea1-8611-0dca4a00782e</tstamps>
+    </comp>
+    <comp ref="K013">
+      <value>F12</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>265df3b2-4379-443b-b077-54fa039856d4</tstamps>
+    </comp>
+    <comp ref="K014">
+      <value>F13</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>04aff6e9-67e5-4e99-8769-5b8bdb817342</tstamps>
+    </comp>
+    <comp ref="K100">
+      <value>~</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>c0928f38-e4f1-4829-b1fa-162e65537e92</tstamps>
+    </comp>
+    <comp ref="K101">
+      <value>1</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>9f8db677-73a0-4496-9d08-0ee161afbedc</tstamps>
+    </comp>
+    <comp ref="K102">
+      <value>2</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>4545ae81-ce1b-44c2-b493-1fa88c9d53ec</tstamps>
+    </comp>
+    <comp ref="K103">
+      <value>3</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>3088276c-8625-49f6-ac06-f342aa540e7c</tstamps>
+    </comp>
+    <comp ref="K104">
+      <value>4</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>2a94b33e-e213-4f7c-a035-529aed985243</tstamps>
+    </comp>
+    <comp ref="K105">
+      <value>5</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>72c8b50c-b5f6-4363-93f2-762c357e6bdd</tstamps>
+    </comp>
+    <comp ref="K106">
+      <value>6</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>60b43a08-ae85-4277-a998-6ba37e1d099f</tstamps>
+    </comp>
+    <comp ref="K107">
+      <value>7</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>200b0069-73d4-4391-a38c-fcd1ee5ae5b9</tstamps>
+    </comp>
+    <comp ref="K108">
+      <value>8</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>556d4503-3e92-4203-b13e-af2f1faf796e</tstamps>
+    </comp>
+    <comp ref="K109">
+      <value>9</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>e32fa9ea-97ff-4d8c-84a4-fda03b709c3e</tstamps>
+    </comp>
+    <comp ref="K110">
+      <value>0</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>1bbeb9ff-bdf1-4b84-bae8-a979deb2b522</tstamps>
+    </comp>
+    <comp ref="K111">
+      <value>-</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>af3ac23e-3ea9-4d5b-aa0b-4bdcd1956a02</tstamps>
+    </comp>
+    <comp ref="K112">
+      <value>=</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>10e29fb4-e685-4b1d-88a3-eeb85676f447</tstamps>
+    </comp>
+    <comp ref="K113">
+      <value>Backspace</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>a71a49bb-4493-4574-b27f-229dcc36b9d8</tstamps>
+    </comp>
+    <comp ref="K114">
+      <value>Insert</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>a1a8be6f-9144-4c97-a34d-fda214f6d625</tstamps>
+    </comp>
+    <comp ref="K200">
+      <value>Tab</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.50u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>76312ac5-e2cf-454d-bd08-6fde3e9a9f20</tstamps>
+    </comp>
+    <comp ref="K201">
+      <value>Q</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>f4fd8b38-db7e-48f1-abd3-7ebd43e99c4c</tstamps>
+    </comp>
+    <comp ref="K202">
+      <value>W</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>7c8b42af-e629-4841-af9a-6adc5e77d705</tstamps>
+    </comp>
+    <comp ref="K203">
+      <value>E</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>53d3901e-926d-44e7-9a5c-312d33f619d8</tstamps>
+    </comp>
+    <comp ref="K204">
+      <value>R</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>7db2ae24-ecd4-4d8e-a3bd-fc684069378a</tstamps>
+    </comp>
+    <comp ref="K205">
+      <value>T</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>deaf036d-042b-4488-93f2-2db147f8407c</tstamps>
+    </comp>
+    <comp ref="K206">
+      <value>Y</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>e741039b-80bf-48e5-8220-33e490e30409</tstamps>
+    </comp>
+    <comp ref="K207">
+      <value>U</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>155b4c1b-b01e-45cd-87ae-62bc5304a6f4</tstamps>
+    </comp>
+    <comp ref="K208">
+      <value>I</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>76ebac19-2f96-4d1f-bbac-9410438127b6</tstamps>
+    </comp>
+    <comp ref="K209">
+      <value>O</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>c4d4d8bf-2dd6-4089-888a-0620ea6ff972</tstamps>
+    </comp>
+    <comp ref="K210">
+      <value>P</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>d59ff40f-3b82-4c12-8ed4-cbbb7a94760a</tstamps>
+    </comp>
+    <comp ref="K211">
+      <value>[</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>7a6bfbf6-affc-4485-9978-c46befbe16f2</tstamps>
+    </comp>
+    <comp ref="K212">
+      <value>]</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>8b6baacc-7be1-4abb-b50b-042b12d1fda2</tstamps>
+    </comp>
+    <comp ref="K213">
+      <value>\</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.50u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>0b8c048f-9727-483c-8313-52d6f7d1a310</tstamps>
+    </comp>
+    <comp ref="K214">
+      <value>Delete</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>8669bcd4-28c7-46e3-8b98-93af9394fdbb</tstamps>
+    </comp>
+    <comp ref="K300">
+      <value>Caps Lock</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.75u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>b140a4d5-71ff-44fd-a407-51d8cbdb7a9f</tstamps>
+    </comp>
+    <comp ref="K301">
+      <value>A</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>222db141-d8ab-4b0a-a5f4-ac7673ab0490</tstamps>
+    </comp>
+    <comp ref="K302">
+      <value>S</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>5d969324-1499-4873-872d-d7363388f542</tstamps>
+    </comp>
+    <comp ref="K303">
+      <value>D</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>3a204380-7710-49a2-b08d-478959d078cc</tstamps>
+    </comp>
+    <comp ref="K304">
+      <value>F</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>6e5622d1-c2df-474c-8619-885c3e6a8ed1</tstamps>
+    </comp>
+    <comp ref="K305">
+      <value>G</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>bf4209de-8653-4282-a434-3e1819581236</tstamps>
+    </comp>
+    <comp ref="K306">
+      <value>H</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>23a06629-ff64-460c-b4d3-fa3d138e0969</tstamps>
+    </comp>
+    <comp ref="K307">
+      <value>J</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>0658aa62-870e-4e6e-bc9d-97c98a91cf8e</tstamps>
+    </comp>
+    <comp ref="K308">
+      <value>K</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>f56560b2-a74d-44a9-b08d-ad83e20799af</tstamps>
+    </comp>
+    <comp ref="K309">
+      <value>L</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>294e75bd-6145-47fc-a164-5cea343f6d07</tstamps>
+    </comp>
+    <comp ref="K310">
+      <value>;</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>cab796b4-a6d0-49b8-88b4-98f4fa427b22</tstamps>
+    </comp>
+    <comp ref="K311">
+      <value>'</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>268aefe8-e991-4b2e-9c78-a9ad447f49d4</tstamps>
+    </comp>
+    <comp ref="K312">
+      <value>Enter</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.25u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>de600ad0-8980-416d-ae7f-f4e4c83c3b01</tstamps>
+    </comp>
+    <comp ref="K400">
+      <value>Left Shift</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.25u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>83f66e24-d82a-4105-b0d8-30f94ce1ec37</tstamps>
+    </comp>
+    <comp ref="K401">
+      <value>Z</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>24c098eb-37d5-4b24-8c64-5c2549e1f3e1</tstamps>
+    </comp>
+    <comp ref="K402">
+      <value>X</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>8adc6240-d3cd-4ddf-858f-a68cb1bafa35</tstamps>
+    </comp>
+    <comp ref="K403">
+      <value>C</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>45238133-aba5-481a-b600-7010d84bd761</tstamps>
+    </comp>
+    <comp ref="K404">
+      <value>V</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>334b77ce-67a0-4dd9-b3a9-a1aaee258d54</tstamps>
+    </comp>
+    <comp ref="K405">
+      <value>B</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>5145ca35-94b8-4e67-8512-d0ed11d23f72</tstamps>
+    </comp>
+    <comp ref="K406">
+      <value>N</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>ab0d2044-6a78-458a-af58-d43725404b6e</tstamps>
+    </comp>
+    <comp ref="K407">
+      <value>M</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>a0c5d468-990b-44ad-899d-42a9e366ff08</tstamps>
+    </comp>
+    <comp ref="K408">
+      <value>,</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>7ddb71cc-d0a5-4e13-837b-237eb76cea61</tstamps>
+    </comp>
+    <comp ref="K409">
+      <value>.</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>43c6d6c7-fff6-4bd7-adc4-6cd80a8f7d6e</tstamps>
+    </comp>
+    <comp ref="K410">
+      <value>/</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>663d2b23-667e-44e5-a06f-c305b90878ce</tstamps>
+    </comp>
+    <comp ref="K411">
+      <value>Right Shift</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.75u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>edc619d6-df95-4d4b-9524-100f2d546c80</tstamps>
+    </comp>
+    <comp ref="K413">
+      <value>Up Arrow</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>04c16d5a-ea38-4198-928a-c02f6dda82e9</tstamps>
+    </comp>
+    <comp ref="K500">
+      <value>Left Ctrl</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>c7a7ef4c-3ca7-4535-97c4-795ca4508d65</tstamps>
+    </comp>
+    <comp ref="K501">
+      <value>Windows</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>36337673-b786-4ec5-8db1-e9d92473e0bf</tstamps>
+    </comp>
+    <comp ref="K502">
+      <value>Left Alt</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>b030a981-c2af-41e8-b6db-072ee3a1bc0a</tstamps>
+    </comp>
+    <comp ref="K505">
+      <value>Space</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_6.25u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>f53bade0-eb48-422d-90f3-0ed632b1a194</tstamps>
+    </comp>
+    <comp ref="K509">
+      <value>Right Alt</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>f5214d9e-814a-4321-85d5-ffaed6c8a4db</tstamps>
+    </comp>
+    <comp ref="K510">
+      <value>Fn</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>4ecbd399-d3d7-4297-a5a1-4eddbae23ca3</tstamps>
+    </comp>
+    <comp ref="K511">
+      <value>Right Ctrl</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>11ac58d9-5136-4b72-a9e8-45c7c501968d</tstamps>
+    </comp>
+    <comp ref="K512">
+      <value>Left Arrow</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>f0c9cb4d-fe2e-4f4a-86de-4e0ed38763db</tstamps>
+    </comp>
+    <comp ref="K513">
+      <value>Down Arrow</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>372480ff-04b3-4a4b-b03c-d38f89b1b2fa</tstamps>
+    </comp>
+    <comp ref="K514">
+      <value>Right Arrow</value>
+      <footprint>PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="switch_matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/switch_matrix/" tstamps="/8a7cfef0-0347-43ff-b630-6aef7522c332/"/>
+      <tstamps>b63e728e-a2ae-4cd7-9cf0-59dd63a90ae8</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="AVR-ISP-6">
+      <description>Atmel 6-pin ISP connector</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>IDC?Header*2x03*</fp>
+        <fp>Pin?Header*2x03*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">AVR-ISP-6</field>
+        <field name="Datasheet"> ~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="MISO" type="passive"/>
+        <pin num="2" name="VCC" type="passive"/>
+        <pin num="3" name="SCK" type="passive"/>
+        <pin num="4" name="MOSI" type="passive"/>
+        <pin num="5" name="~{RST}" type="passive"/>
+        <pin num="6" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_C_Receptacle_USB2.0_14P">
+      <description>USB 2.0-only 14P Type-C Receptacle connector</description>
+      <docs>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</docs>
+      <footprints>
+        <fp>USB*C*Receptacle*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_C_Receptacle_USB2.0_14P</field>
+        <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="passive"/>
+        <pin num="A4" name="VBUS" type="passive"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="D+" type="bidirectional"/>
+        <pin num="A7" name="D-" type="bidirectional"/>
+        <pin num="A9" name="VBUS" type="passive"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="D+" type="bidirectional"/>
+        <pin num="B7" name="D-" type="bidirectional"/>
+        <pin num="B9" name="VBUS" type="passive"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_US">
+      <description>Polarized capacitor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_GND24_Small">
+      <description>Four pin crystal, GND on pins 2 and 4, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_GND24_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+        <field name="Datasheet">~</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Polyfuse_Small">
+      <description>Resettable fuse, polymeric positive temperature coefficient, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*polyfuse*</fp>
+        <fp>*PTC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Polyfuse_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_Microchip_ATmega" part="ATmega32U4-A">
+      <description>16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</docs>
+      <footprints>
+        <fp>TQFP*10x10mm*P0.8mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATmega32U4-A</field>
+        <field name="Footprint">Package_QFP:TQFP-44_10x10mm_P0.8mm</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PE6" type="bidirectional"/>
+        <pin num="2" name="UVCC" type="power_in"/>
+        <pin num="3" name="D-" type="bidirectional"/>
+        <pin num="4" name="D+" type="bidirectional"/>
+        <pin num="5" name="UGND" type="passive"/>
+        <pin num="6" name="UCAP" type="passive"/>
+        <pin num="7" name="VBUS" type="input"/>
+        <pin num="8" name="PB0" type="bidirectional"/>
+        <pin num="9" name="PB1" type="bidirectional"/>
+        <pin num="10" name="PB2" type="bidirectional"/>
+        <pin num="11" name="PB3" type="bidirectional"/>
+        <pin num="12" name="PB7" type="bidirectional"/>
+        <pin num="13" name="~{RESET}" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="XTAL2" type="output"/>
+        <pin num="17" name="XTAL1" type="input"/>
+        <pin num="18" name="PD0" type="bidirectional"/>
+        <pin num="19" name="PD1" type="bidirectional"/>
+        <pin num="20" name="PD2" type="bidirectional"/>
+        <pin num="21" name="PD3" type="bidirectional"/>
+        <pin num="22" name="PD5" type="bidirectional"/>
+        <pin num="23" name="GND" type="passive"/>
+        <pin num="24" name="AVCC" type="power_in"/>
+        <pin num="25" name="PD4" type="bidirectional"/>
+        <pin num="26" name="PD6" type="bidirectional"/>
+        <pin num="27" name="PD7" type="bidirectional"/>
+        <pin num="28" name="PB4" type="bidirectional"/>
+        <pin num="29" name="PB5" type="bidirectional"/>
+        <pin num="30" name="PB6" type="bidirectional"/>
+        <pin num="31" name="PC6" type="bidirectional"/>
+        <pin num="32" name="PC7" type="bidirectional"/>
+        <pin num="33" name="~{HWB}/PE2" type="bidirectional"/>
+        <pin num="34" name="VCC" type="passive"/>
+        <pin num="35" name="GND" type="passive"/>
+        <pin num="36" name="PF7" type="bidirectional"/>
+        <pin num="37" name="PF6" type="bidirectional"/>
+        <pin num="38" name="PF5" type="bidirectional"/>
+        <pin num="39" name="PF4" type="bidirectional"/>
+        <pin num="40" name="PF1" type="bidirectional"/>
+        <pin num="41" name="PF0" type="bidirectional"/>
+        <pin num="42" name="AREF" type="passive"/>
+        <pin num="43" name="GND" type="passive"/>
+        <pin num="44" name="AVCC" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Power_Protection" part="PRTR5V0U2X">
+      <description>Ultra low capacitance double rail-to-rail ESD protection diode, SOT-143</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf</docs>
+      <footprints>
+        <fp>SOT?143*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">PRTR5V0U2X</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-143</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="passive"/>
+        <pin num="2" name="I/O1" type="passive"/>
+        <pin num="3" name="I/O2" type="passive"/>
+        <pin num="4" name="VCC" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="RS-187R05A2-DSMTRT" part="RS-187R05A2-DS_MT_RT">
+      <fields>
+        <field name="Reference">U</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="sl21a" part="SL2.1A">
+      <docs>https://datasheet.lcsc.com/lcsc/1811151645_CoreChips-SL2-1A_C192893.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SL2.1A</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/1811151645_CoreChips-SL2-1A_C192893.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DM4" type="bidirectional"/>
+        <pin num="2" name="DP4" type="bidirectional"/>
+        <pin num="3" name="DM3" type="bidirectional"/>
+        <pin num="4" name="DP3" type="bidirectional"/>
+        <pin num="5" name="DM2" type="bidirectional"/>
+        <pin num="6" name="DP2" type="bidirectional"/>
+        <pin num="7" name="DM1" type="bidirectional"/>
+        <pin num="8" name="DP1" type="bidirectional"/>
+        <pin num="9" name="DM" type="bidirectional"/>
+        <pin num="10" name="DP" type="bidirectional"/>
+        <pin num="11" name="VDD5" type="power_in"/>
+        <pin num="12" name="GND" type="power_in"/>
+        <pin num="13" name="VD33" type="power_out"/>
+        <pin num="14" name="VD18" type="power_out"/>
+        <pin num="15" name="XOUT" type="output"/>
+        <pin num="16" name="XIN" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/nix/store/rd62nbja94gcg4k6na86r2qrp0ax4mxm-kicad-symbols-eedf6c9dda/share/kicad/symbols/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/nix/store/rd62nbja94gcg4k6na86r2qrp0ax4mxm-kicad-symbols-eedf6c9dda/share/kicad/symbols/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/nix/store/rd62nbja94gcg4k6na86r2qrp0ax4mxm-kicad-symbols-eedf6c9dda/share/kicad/symbols/Device.kicad_sym</uri>
+    </library>
+    <library logical="MCU_Microchip_ATmega">
+      <uri>/nix/store/rd62nbja94gcg4k6na86r2qrp0ax4mxm-kicad-symbols-eedf6c9dda/share/kicad/symbols/MCU_Microchip_ATmega.kicad_sym</uri>
+    </library>
+    <library logical="Power_Protection">
+      <uri>/nix/store/rd62nbja94gcg4k6na86r2qrp0ax4mxm-kicad-symbols-eedf6c9dda/share/kicad/symbols/Power_Protection.kicad_sym</uri>
+    </library>
+    <library logical="RS-187R05A2-DSMTRT">
+      <uri>/home/general/kicad/keyboard_test/RS-187R05A2-DSMTRT.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/nix/store/rd62nbja94gcg4k6na86r2qrp0ax4mxm-kicad-symbols-eedf6c9dda/share/kicad/symbols/Switch.kicad_sym</uri>
+    </library>
+    <library logical="sl21a">
+      <uri>/home/general/kicad/keyboard_test/sl21a.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="VCC" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U1" pin="2" pinfunction="UVCC" pintype="power_in"/>
+      <node ref="U1" pin="24" pinfunction="AVCC" pintype="power_in"/>
+      <node ref="U1" pin="34" pinfunction="VCC" pintype="passive"/>
+      <node ref="U1" pin="44" pinfunction="AVCC" pintype="passive"/>
+      <node ref="U2" pin="11" pinfunction="VDD5" pintype="power_in"/>
+    </net>
+    <net code="2" name="/D+">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="D+" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="/D-">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="D-" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/D2_N">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="DM2" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/D2_P">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="DP2" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/D3_N">
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="DM3" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/D3_P">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="DP3" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/D_N">
+      <node ref="D6" pin="3" pinfunction="I/O2" pintype="passive"/>
+      <node ref="J1" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J1" pin="B7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U2" pin="9" pinfunction="DM" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/D_P">
+      <node ref="D6" pin="2" pinfunction="I/O1" pintype="passive"/>
+      <node ref="J1" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J1" pin="B6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U2" pin="10" pinfunction="DP" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/UCAP">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="UCAP" pintype="passive"/>
+    </net>
+    <net code="11" name="/VBUS">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="VBUS" pintype="input"/>
+    </net>
+    <net code="12" name="/VDD18">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="VD18" pintype="power_out"/>
+    </net>
+    <net code="13" name="/VDD33">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="VD33" pintype="power_out"/>
+    </net>
+    <net code="14" name="/switch_matrix/col0">
+      <node ref="K000" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K100" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K200" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K300" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K400" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K500" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="30" pinfunction="PB6" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/switch_matrix/col1">
+      <node ref="K101" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K201" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K301" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K401" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K501" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="36" pinfunction="PF7" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/switch_matrix/col2">
+      <node ref="K002" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K102" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K202" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K302" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K402" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K502" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="37" pinfunction="PF6" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/switch_matrix/col3">
+      <node ref="K003" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K103" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K203" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K303" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K403" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="PB0" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/switch_matrix/col4">
+      <node ref="K004" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K104" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K204" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K304" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K404" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="PB7" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="/switch_matrix/col5">
+      <node ref="K005" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K105" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K205" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K305" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K405" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K505" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="PD0" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="/switch_matrix/col6">
+      <node ref="K006" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K106" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K206" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K306" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K406" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="PD1" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="/switch_matrix/col7">
+      <node ref="K007" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K107" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K207" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K307" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K407" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="PD2" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="/switch_matrix/col8">
+      <node ref="K008" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K108" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K208" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K308" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K408" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="PD3" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="/switch_matrix/col9">
+      <node ref="K009" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K109" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K209" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K309" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K409" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K509" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="PD5" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="/switch_matrix/col10">
+      <node ref="K010" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K110" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K210" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K310" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K410" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K510" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="PD4" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="/switch_matrix/col11">
+      <node ref="K011" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K111" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K211" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K311" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K411" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K511" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="26" pinfunction="PD6" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="/switch_matrix/col12">
+      <node ref="K012" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K112" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K212" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K312" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K512" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="27" pinfunction="PD7" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="/switch_matrix/col13">
+      <node ref="K013" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K113" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K213" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K413" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K513" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="28" pinfunction="PB4" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="/switch_matrix/col14">
+      <node ref="K014" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K114" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K214" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K514" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="29" pinfunction="PB5" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="/switch_matrix/row0">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="38" pinfunction="PF5" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="/switch_matrix/row1">
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D24" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D25" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D26" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D27" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D28" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D29" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D30" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="39" pinfunction="PF4" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="/switch_matrix/row2">
+      <node ref="D31" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D32" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D33" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D34" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D35" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D36" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D37" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D38" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D39" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D40" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D41" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D42" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D43" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D44" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D45" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="40" pinfunction="PF1" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="/switch_matrix/row3">
+      <node ref="D46" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D47" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D48" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D49" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D50" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D51" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D52" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D53" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D54" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D55" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D56" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D57" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D58" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="41" pinfunction="PF0" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="/switch_matrix/row4">
+      <node ref="D59" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D61" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D62" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D63" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D64" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D65" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D66" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D67" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D68" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D69" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D70" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D71" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D72" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="PE6" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="/switch_matrix/row5">
+      <node ref="D76" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D77" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D78" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D81" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D85" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D86" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D87" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D88" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D89" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D90" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="31" pinfunction="PC6" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J2" pin="6" pinfunction="GND" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="23" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="35" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="43" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="UGND" pintype="passive"/>
+      <node ref="U2" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="16" pinfunction="XIN" pintype="input"/>
+      <node ref="U3" pin="2" pintype="passive"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Y1" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K000" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D2-A)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K002" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D3-A)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K003" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D4-A)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K004" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D5-A)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K005" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D7-A)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K006" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D8-A)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K007" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D9-A)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K008" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D10-A)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K009" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D11-A)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K010" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(D12-A)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K011" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(D13-A)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K012" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(D14-A)">
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K013" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(D15-A)">
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K014" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(D16-A)">
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K100" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(D17-A)">
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K101" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(D18-A)">
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K102" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(D19-A)">
+      <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K103" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(D20-A)">
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K104" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(D21-A)">
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K105" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(D22-A)">
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K106" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(D23-A)">
+      <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K107" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(D24-A)">
+      <node ref="D24" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K108" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(D25-A)">
+      <node ref="D25" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K109" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(D26-A)">
+      <node ref="D26" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K110" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(D27-A)">
+      <node ref="D27" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K111" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(D28-A)">
+      <node ref="D28" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K112" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(D29-A)">
+      <node ref="D29" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K113" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(D30-A)">
+      <node ref="D30" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K114" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(D31-A)">
+      <node ref="D31" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K200" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(D32-A)">
+      <node ref="D32" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K201" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(D33-A)">
+      <node ref="D33" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K202" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(D34-A)">
+      <node ref="D34" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K203" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(D35-A)">
+      <node ref="D35" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K204" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(D36-A)">
+      <node ref="D36" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K205" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(D37-A)">
+      <node ref="D37" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K206" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(D38-A)">
+      <node ref="D38" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K207" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(D39-A)">
+      <node ref="D39" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K208" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(D40-A)">
+      <node ref="D40" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K209" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(D41-A)">
+      <node ref="D41" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K210" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(D42-A)">
+      <node ref="D42" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K211" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(D43-A)">
+      <node ref="D43" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K212" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(D44-A)">
+      <node ref="D44" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K213" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="79" name="Net-(D45-A)">
+      <node ref="D45" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K214" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="80" name="Net-(D46-A)">
+      <node ref="D46" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K300" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="81" name="Net-(D47-A)">
+      <node ref="D47" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K301" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="82" name="Net-(D48-A)">
+      <node ref="D48" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K302" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="83" name="Net-(D49-A)">
+      <node ref="D49" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K303" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="84" name="Net-(D50-A)">
+      <node ref="D50" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K304" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="85" name="Net-(D51-A)">
+      <node ref="D51" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K305" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="86" name="Net-(D52-A)">
+      <node ref="D52" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K306" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="87" name="Net-(D53-A)">
+      <node ref="D53" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K307" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="88" name="Net-(D54-A)">
+      <node ref="D54" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K308" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="89" name="Net-(D55-A)">
+      <node ref="D55" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K309" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="90" name="Net-(D56-A)">
+      <node ref="D56" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K310" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="91" name="Net-(D57-A)">
+      <node ref="D57" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K311" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="92" name="Net-(D58-A)">
+      <node ref="D58" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K312" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="93" name="Net-(D59-A)">
+      <node ref="D59" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K413" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="94" name="Net-(D61-A)">
+      <node ref="D61" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K400" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="95" name="Net-(D62-A)">
+      <node ref="D62" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K401" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="96" name="Net-(D63-A)">
+      <node ref="D63" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K402" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="97" name="Net-(D64-A)">
+      <node ref="D64" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K403" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="98" name="Net-(D65-A)">
+      <node ref="D65" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K404" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="99" name="Net-(D66-A)">
+      <node ref="D66" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K405" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="100" name="Net-(D67-A)">
+      <node ref="D67" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K406" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="101" name="Net-(D68-A)">
+      <node ref="D68" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K407" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="102" name="Net-(D69-A)">
+      <node ref="D69" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K408" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="103" name="Net-(D70-A)">
+      <node ref="D70" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K409" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="104" name="Net-(D71-A)">
+      <node ref="D71" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K410" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="105" name="Net-(D72-A)">
+      <node ref="D72" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K411" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="106" name="Net-(D76-A)">
+      <node ref="D76" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K500" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="107" name="Net-(D77-A)">
+      <node ref="D77" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K501" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="108" name="Net-(D78-A)">
+      <node ref="D78" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K502" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="109" name="Net-(D81-A)">
+      <node ref="D81" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K505" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="110" name="Net-(D85-A)">
+      <node ref="D85" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K509" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="111" name="Net-(D86-A)">
+      <node ref="D86" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K510" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="112" name="Net-(D87-A)">
+      <node ref="D87" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K511" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="113" name="Net-(D88-A)">
+      <node ref="D88" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K512" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="114" name="Net-(D89-A)">
+      <node ref="D89" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K513" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="115" name="Net-(D90-A)">
+      <node ref="D90" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K514" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="116" name="Net-(J1-CC1)">
+      <node ref="J1" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="117" name="Net-(J1-CC2)">
+      <node ref="J1" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="118" name="Net-(J2-MISO)">
+      <node ref="J2" pin="1" pinfunction="MISO" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="PB3" pintype="bidirectional"/>
+    </net>
+    <net code="119" name="Net-(J2-MOSI)">
+      <node ref="J2" pin="4" pinfunction="MOSI" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="PB2" pintype="bidirectional"/>
+    </net>
+    <net code="120" name="Net-(J2-SCK)">
+      <node ref="J2" pin="3" pinfunction="SCK" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="PB1" pintype="bidirectional"/>
+    </net>
+    <net code="121" name="Net-(J2-~{RST})">
+      <node ref="J2" pin="5" pinfunction="~{RST}" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="~{RESET}" pintype="input"/>
+      <node ref="U3" pin="1" pintype="passive"/>
+    </net>
+    <net code="122" name="Net-(U1-XTAL1)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="XTAL1" pintype="input"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="123" name="Net-(U1-XTAL2)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="XTAL2" pintype="output"/>
+      <node ref="Y1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="124" name="Net-(U1-~{HWB}{slash}PE2)">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="33" pinfunction="~{HWB}/PE2" pintype="bidirectional"/>
+    </net>
+    <net code="125" name="VCC">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="D6" pin="4" pinfunction="VCC" pintype="passive"/>
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="B9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="126" name="unconnected-(U1-AREF-Pad42)">
+      <node ref="U1" pin="42" pinfunction="AREF" pintype="passive+no_connect"/>
+    </net>
+    <net code="127" name="unconnected-(U1-PC7-Pad32)">
+      <node ref="U1" pin="32" pinfunction="PC7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="128" name="unconnected-(U2-DM1-Pad7)">
+      <node ref="U2" pin="7" pinfunction="DM1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="129" name="unconnected-(U2-DM4-Pad1)">
+      <node ref="U2" pin="1" pinfunction="DM4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="130" name="unconnected-(U2-DP1-Pad8)">
+      <node ref="U2" pin="8" pinfunction="DP1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="131" name="unconnected-(U2-DP4-Pad2)">
+      <node ref="U2" pin="2" pinfunction="DP4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="132" name="unconnected-(U2-XOUT-Pad15)">
+      <node ref="U2" pin="15" pinfunction="XOUT" pintype="output+no_connect"/>
+    </net>
+    <net code="133" name="unconnected-(U3-Pad1)">
+      <node ref="U3" pin="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="134" name="unconnected-(U3-Pad2)">
+      <node ref="U3" pin="2" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
